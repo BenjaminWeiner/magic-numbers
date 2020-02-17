@@ -1,0 +1,5 @@
+specify polymer characteristics: l, sequence, protein number, block number
+7
+1 1 1 1 1 1 1 
+103
+90

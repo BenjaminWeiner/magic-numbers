@@ -1,0 +1,14 @@
+specify cubic lattice: dim, size(m,n,l), neighbors, edge vectors
+3
+20 20 20
+6
+1 0 0
+-1 0 0
+0 1 0
+0 -1 0
+0 0 1
+0 0 -1
+
+
+
+   
