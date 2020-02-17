@@ -7,7 +7,7 @@ test name (labels output)
 lattice specification file (size, connectivity)
 polymer specification file (length and number of flexible polymers, number of rigid cubes)
 temperature schedule for simulated annealing
-# of Monte Carlo steps (one Monte Carlo step is x moves, where x=# of monomers in simulation)
+Number of Monte Carlo steps (one Monte Carlo step is x moves, where x=# of monomers in simulation)
 Strength of nonspecific interactions, in k_BT
 
 For example, the following commands would run the Windows and Linux versions, respectively:
