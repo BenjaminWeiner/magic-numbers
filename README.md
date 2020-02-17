@@ -3,6 +3,7 @@ Code for 3D lattice simulations in the article, "Rigidity enhances a magic-numbe
 
 ******************************************
 Simulation executables:
+
 Both the Windows and Linux executables accept the following arguments:
 test name (labels output),
 lattice specification file (size, connectivity), 
