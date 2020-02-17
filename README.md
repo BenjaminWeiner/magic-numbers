@@ -10,10 +10,12 @@ lattice specification file (size, connectivity),
 polymer specification file (length and number of flexible polymers, number of rigid cubes),
 temperature schedule for simulated annealing,
 Number of Monte Carlo steps (one Monte Carlo step is x moves, where x=# of monomers in simulation),
-Strength of nonspecific interactions, in k_BT,
+Strength of nonspecific interactions, in k_BT
 
 For example, the following commands would run the Windows and Linux versions, respectively:
+
 magicnumbers_3D.exe testName lattice_cubic.txt polySpecs_lP7_c0.09 annealing_schedule_4 40000 -0.1
+
 ./magicnumbers_3D_linux testName lattice_cubic.txt polySpecs_lP7_c0.09 annealing_schedule_4 40000 -0.1
 
 The output will be the polyOutput_testName.dat, which has the position of every monomer at the conclusion of each Monte Carlo step. All the flexible polymers are listed before all the rigid blocks.
